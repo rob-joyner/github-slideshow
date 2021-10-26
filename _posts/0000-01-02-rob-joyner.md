@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+To er is human to fuck up is divine
 Use the left arrow to go back!
